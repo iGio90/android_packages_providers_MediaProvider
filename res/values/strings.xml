@@ -26,4 +26,8 @@
 
     <!-- Description line for music artists in the search/suggestion results -->
     <string name="artist_label">Artist</string>
+
+    <!-- Ask to scan on boot -->
+    <string name="ask_scan_title">Scan for new media?</string>
+    <string name="ask_scan_text">Click to manually trigger media scan</string>
 </resources>
